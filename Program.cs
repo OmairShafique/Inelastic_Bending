@@ -16,7 +16,7 @@ namespace Inelastic_Bending
     class Program
     {
 
-        [STAThread]
+        
         static void Main(string[] args)
         {
             Excel.Application xlApp = new Microsoft.Office.Interop.Excel.Application();
